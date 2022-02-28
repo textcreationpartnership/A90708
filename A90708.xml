@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Right Honourable the Commons assembled in Parliament. The humble petition of Sir Paul Pyndar, Sir John Jacob, Sir Job Harby, Sir Thomas Dawes, Executor to Sir Abraham Dawes, late deceased, Sir Nicholas Crispe, Sir John Nulls, and Sir John Harrison, Knights; late contracted farmers of the customes, together with their creditors.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90708</idno>
+            <idno type="STC">Wing P2249</idno>
+            <idno type="STC">Thomason 669.f.14[17]</idno>
+            <idno type="STC">ESTC R211093</idno>
+            <idno type="EEBO-CITATION">99869831</idno>
+            <idno type="PROQUEST">99869831</idno>
+            <idno type="VID">163005</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90708)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163005)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f14[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Right Honourable the Commons assembled in Parliament. The humble petition of Sir Paul Pyndar, Sir John Jacob, Sir Job Harby, Sir Thomas Dawes, Executor to Sir Abraham Dawes, late deceased, Sir Nicholas Crispe, Sir John Nulls, and Sir John Harrison, Knights; late contracted farmers of the customes, together with their creditors.</title>
+                  <author>Pindar, Paul, Sir, 1565 or 6-1650.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 12th 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debt, Imprisonment for --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:163005:1" rendition="simple:additions"/>
+            <head>To the Right Honourable the Commons aſſembled in Parliament.
+<hi>The humble Petition of Sir</hi> Paul Pyndar, <hi>Sir</hi> John Jacob, <hi>Sir</hi> Job Harby, <hi>Sir</hi> Thomas Dawes, <hi>Executor to Sir</hi> Abraham Dawes, <hi>late dcceaſed, Sir</hi> Nicholas Criſpe, <hi>Sir</hi> John Nulls, <hi>and Sir</hi> John Harriſon, <hi>Knights; late contracted Farmers of the Cuſtomes, together with their Creditors.</hi>
+            </head>
+            <opener>HUMBLY SHEVVING,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>HAT the ſaid Farmers, having hereunto annexed a ſhort Remonſtrance of the ſtate of their preſent ſad condition; with the Courſe of their proceedings with His late Majeſty and this Honorable Houſe; and how far, and in what manner, both His Majeſty, and the Houſe, have thought fit to diſcharge and ſatisfie their diſburſements and ingagements, formerly aſſigned upon a Contracted Farm, to be paid out of the Receipt of the Cuſtoms, which were otherwiſe diſpoſed of by the Parliament. And ſince having other ſecurity appointed by His Majeſty for their ſatisfaction, with reference and order (upon their former Petition) that Ordinances ſhould be prepared for their relief, according to the former ingagements of the Houſe.</p>
+            <p>YOur Petitioners therefore doe humbly pray, That this Honourable Houſe would vouchſafe the reading this ſhort annexed Remonſtrance, and ſeriouſly conſider the heavy preſſure and burden your Petitioners have long ſuſtained, by ſo great a Debt contracted upon them; and that report may be made of the true ſtate and condition of their caſe, from the Committee of the Navy, long ſince referred and examined by them; whereby your Petitioners may receive a comfortable relief and ſatisfaction, for their Debt due unto them, by ſuch wayes and means as have been propounded, and that in order thereunto, ſome Acts may be prepared, according to former directions of this Honourable Houſe: And we your Petitioners, with all ours, ſhall ever have occaſion to acknowledge your Juſtice.</p>
+            <closer>And daily pray, &amp;c.</closer>
+         </div>
+         <div type="disposition">
+            <head>A brief Remonſtrance of the ſtate of the buſineſſe of Sir <hi>Paul Pyndar,</hi> Sir <hi>John Jacob,</hi> Sir <hi>Job Harby,</hi> Sir <hi>Thomas Dawes,</hi> Executor to Sir <hi>Abraham Dawes,</hi> deceaſed, Sir <hi>Nicholas Criſpe,</hi> Sir <hi>John Nulls,</hi> and Sir <hi>John Harriſon,</hi> Knights; late contracted Farmers of the Cuſtomes, for their Debt owing by His late Majeſty unto them thereupon.</head>
+            <p>
+               <seg rend="decorInit">A</seg>FTER their ſecurity of the Cuſtomes was otherwiſe diſpoſed of by the Parliament, the ſaid contracted Farmers did apply them<g ref="char:EOLhyphen"/>ſelves by Petition unto His ſaid Majeſty, for their ſatisfaction by ſome other branch of His Revenue.</p>
+            <p>Which Petition was by His Majeſty referred unto His then Commiſſioners of the Treaſury, to conſider ſome way of ſatis<g ref="char:EOLhyphen"/>faction of the Debt then due unto the Farmers.</p>
+            <p>Whereupon the ſaid Commiſſioners of the Treaſury, did by their Certificate unto His Majeſty, dated the 15<hi rend="sup">th.</hi> of <hi>May,</hi> 1642. propoſe and adviſe His Majeſty the beſt and moſt advantageous way for the ſatisfaction of the Farmers ſaid debt, to be out of the ſale of ſuch His Forreſts lands, Chaces and Parkes, as are annuall charges unto His Majeſty, and ſerve not for His royall diſport, whereby His Majeſty ſhould not only pay His Debt, but much advance His Revenue.</p>
+            <p>His Majeſty by His Letter, dated the firſt of <hi>Iune,</hi> 1642. from <hi>Yorke</hi> directed unto His ſaid Commiſſioners of the Treaſury in anſwer to their Certificate of the 15<hi rend="sup">th.</hi> of <hi>May,</hi> 1642 aforeſaid, and taking thereby conſideration of a Petition then exhibited unto His Majeſty at <hi>Yorke,</hi> with a ſcedule of the Farmers Debt, together with intereſt incurred for the ſame, which Hee ſends to the Commiſſioners, ſignified that for the reaſons in the Certificate mentioned, Hee was very well enclined to diſcharge the Farmers ſaid Debt, and reſolved by all poſſible wayes and means ſpeedily to ſatisfie the ſame; And therefore did thereby require with all convenient ſpeed, a Liſt of all His Parkes, Forreſts, and Chaces to be preſented unto Him, to the end Hee might ſpeedily give further order how to diſpoſe of them. And His Majeſties Surveyour generall was for the more ſpeedy effecting His pleaſure, required thereby to give particulars and conſtats of the premiſes unto the ſaid Commiſſioners: Which was done accordingly by the ſaid Surveyour generall.</p>
+            <p>And now the Farmers buſineſs being brought to this mature condition, upon the very point of ſatisfaction, to be ſetled for their Debt, in the way aforeſaid, the difference with His Majeſty and Parliament then ariſing, and ſo continuing, did hinder the Farmers from any further applications unto His Majeſty then what aforeſaid.</p>
+            <p>Yet notwithſtanding the Farmers groaning under ſo great a burden of Debt, could not but endeavour all means before them offered, and being made more miſerable by a great fine paid by them to the Parliament, <hi>Anno</hi> 1641. (the ſum being <hi>165000l.)</hi> the Houſe then conſidering the greatneſſe of the Fine, and the ſpeciall uſe and ſervice the Common-wealth did receive at that preſent, by the ſpeedy payment thereof, for the then disbanding of the <hi>Engliſh</hi> and <hi>Scottiſh</hi> Armies; the ſaid Farmers were then promiſed, that care ſhould be taken for the ſatisfaction of their Debt in due time.</p>
+            <p>Hereupon the ſaid Farmers in <hi>May,</hi> 1645. did renew their requeſt unto the Houſe of Commons by Petition, for order and directions, that their Debt and engagements might be diſcharged and ſatisfied.</p>
+            <p>The Houſe the 14<hi rend="sup">th.</hi> of <hi>May,</hi> 1645. ordered, That the ſaid Petition ſhould be referred to the conſideration of the Committee of the Navy, who were to prepare Ordinances for the relief of the Petitioners, according to the former engagements of the Houſe, and they had power to receive ſuch propoſitions as ſhould be tendered unto them by the Petitioners.</p>
+            <p>In proſecution hereof, the Farmers did attend the Committee of the Navy ſeverall dayes, and did by their order, preſent unto them an Accompt of His Majeſties Debt then due (being <hi>276146 l. 15s. 11d</hi> ¼.) And further did give an accompt of their proceedings and former engagements of His Majeſty to be ſatisfied their Debt out of His Forreſts, Parkes and Chaces, as is aforementioned at large: And delivered unto the ſaid Committee a copy of His Majeſties ſaid Letter, of the firſt of <hi>Iune,</hi> 1642. together with a particular Liſt of the names of His Majeſties Forreſts, Parkes and Chaces, which was formerly delivered by the Surveyour generall unto His Majeſties Commiſſioners of the Treaſury.</p>
+            <p>The Committee of the Navy after ſerious debate of this buſineſs, did in fine (as we were informed) come to this reſolution, and ordered a report to be made forthwith unto the Houſe, in anſwer unto the ſaid reference, ſhewing to the Houſe, how the Petitioners might receive relief, according to the juſtneſs of their deſires.</p>
+            <p>This report the Farmers have often ſollicited, to be made, but the Houſe being taken up with generall and publick buſineſs, could not admit of an opportunity or ſeaſon to hear this particular, ſo that it remains ever ſince in this condition unreported. And without ſpeedy relief herein, the ſaid Farmers muſt periſh in priſon, to the utter ruine of themſelves and families, together with many honeſt men, women, and orphans, for this engagement unhappily become their Creditors.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
